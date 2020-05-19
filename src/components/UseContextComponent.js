@@ -60,7 +60,6 @@ const ContextComponent = () => {
         <UserContext.Provider value={userState}>
             <h1>first level</h1>
             <LevelTwo />
-            <hr />
         </UserContext.Provider>
     );
 };

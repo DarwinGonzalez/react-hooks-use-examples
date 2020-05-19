@@ -23,7 +23,6 @@ const UseMemoComponent = () => {
                 Fibpnacci of {num} is {fib}
             </h2>
             <button onClick={() => setNum(num + 1)}>➕</button>
-            <hr />
         </div>
     );
 };

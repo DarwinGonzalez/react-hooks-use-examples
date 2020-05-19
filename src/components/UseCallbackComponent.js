@@ -35,7 +35,6 @@ const UserCallbackComponent = () => {
                 compute={useCallback(fibonacci, [])}
                 count={count}
             />
-            <hr />
         </div>
     );
 };

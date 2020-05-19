@@ -10,7 +10,6 @@ const UseStateComponent = () => {
                 style={{ color: isGreen ? 'limegreen' : 'crimson'}}>
                 useState use Example
             </h1>
-            <hr/>
         </>
     )
 }

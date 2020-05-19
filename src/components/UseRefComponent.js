@@ -19,7 +19,6 @@ const UseRefComponent = () => {
             <button onClick={incrementAndDelayLogging}>delay loggin</button>
             <h4>state: {stateNumber}</h4>
             <h4>ref: {numRef.current}</h4>
-            <hr />
         </div>
     );
 };

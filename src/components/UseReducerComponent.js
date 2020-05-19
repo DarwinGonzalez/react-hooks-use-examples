@@ -43,7 +43,6 @@ const UseReducerComponent = () => {
                 <button onClick={() => dispatch({ type: 'INCREMENT_B'})}>➕</button>
                 <button onClick={() => dispatch({ type: 'DECREMENT_B'})}>➖</button>
             </div>
-            <hr />
         </div>
     );
 };

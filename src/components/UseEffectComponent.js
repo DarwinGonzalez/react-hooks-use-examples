@@ -13,7 +13,6 @@ const UseEffectComponent = () => {
             <h1>
                 useEffect use Example: { time.toLocaleTimeString() }
             </h1>
-            <hr/>
         </>
     );
 }
