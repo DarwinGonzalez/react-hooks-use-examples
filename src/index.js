@@ -15,7 +15,7 @@ function App() {
   return (
     <>
       <div className="header">
-        <a className="logo" href="/">
+        <a className="logo">
             React Hooks
         </a>
         <div className="header-right">

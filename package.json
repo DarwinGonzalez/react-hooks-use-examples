@@ -1,9 +1,11 @@
 {
   "name": "hooks-react",
   "version": "1.0.0",
+  "homepage": "https://darwingonzalez.github.io/react-hooks-use-examples/",
   "description": "use of react hooks",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
