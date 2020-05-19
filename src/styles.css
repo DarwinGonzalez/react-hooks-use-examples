@@ -1,0 +1,35 @@
+.App {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.span-r {
+    height: 25px;
+    width: 25px;
+    background-color:red;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.span-g {
+    height: 25px;
+    width: 25px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px
+}
+
+.span-b {
+    height: 25px;
+    width: 25px;
+    background-color:blue;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px
+}
+
